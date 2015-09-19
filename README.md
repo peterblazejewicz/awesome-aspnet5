@@ -19,6 +19,7 @@ Inspired by Sindre Sorhus' the [awesome](https://github.com/sindresorhus/awesome
 - [VS Code](https://code.visualstudio.com/)
 
 ### Videos
+- [Asp.Net 5 and Asp.Net Mvc 6 Full Tutorial](https://www.youtube.com/watch?v=4EGDxkWoUOY)
 - [ASP.NET Community Standup](https://live.asp.net/)
 - [ASP.NET Community Standup YouTube Channel](https://www.youtube.com/playlist?list=PL0M0zPgJ3HSftTAAHttA3JQU4vOjXFquF)
 
